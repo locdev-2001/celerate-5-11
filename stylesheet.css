@@ -1383,15 +1383,15 @@ audio {
 }
 
 .message {
-	margin-top: -120px;
+	margin-top: -70px;
 	display: none;
 }
 .message p {
 	font-family: 'Signika', sans-serif;
-	font-size: 30px;
+	font-size: 18px;
 	text-transform: uppercase;
 	color: #d4b3b6;
-	text-shadow: 2px 2px 2px rgb(223, 223, 223);
+	
 	display: none;
 	font-weight: bold;
 }
