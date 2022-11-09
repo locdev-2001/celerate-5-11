@@ -1093,18 +1093,19 @@ audio {
 	bottom: -200px;
 	opacity: 0.6;
 	z-index: 99;
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 	background-repeat: no-repeat no-repeat;
-	background-size: 100px 100px;
+	background-size: 50px 50px;
 }
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 50px;
+	font-size: 32px;
 	color: #BF4136;
-	text-shadow: 5px 5px 5px #FFF;
+	text-shadow: 3px 3px 3px #FFF;
 	display: none;
+	margin-top:5px;
 }
 #b1,#b11 {
 	background-image: url('h.png');
