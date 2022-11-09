@@ -11,10 +11,10 @@ $('document').ready(function(){
 		$('#b22').animate({top:240, left: vw-50},500);
 		$('#b33').animate({top:240, left: vw-0},500);
 		$('#b44').animate({top:240, left: vw+50},500);
-		$('#b66').animate({top:360, left: vw-100},500);
-		$('#b77').animate({top:360, left: vw-50},500);
-        $('#b88').animate({ top: 360, left: vw -0}, 500);
-        $('#b99').animate({ top: 360, left: vw + 50 }, 500);
+		$('#b66').animate({top:300, left: vw-100},500);
+		$('#b77').animate({top:300, left: vw-50},500);
+        $('#b88').animate({ top: 300, left: vw -0}, 500);
+        $('#b99').animate({ top: 300, left: vw + 50 }, 500);
 		});
 
 	$('#turn_on').click(function(){
@@ -169,10 +169,10 @@ $('document').ready(function(){
 		$('#b22').animate({top:240, left: vw-50},500);
 		$('#b33').animate({top:240, left: vw-0},500);
 		$('#b44').animate({top:240, left: vw+50},500);
-		$('#b66').animate({top:360, left: vw-100},500);
-		$('#b77').animate({top:360, left: vw-50},500);
-        $('#b88').animate({ top: 360, left: vw -0}, 500);
-        $('#b99').animate({ top: 360, left: vw + 50 }, 500);
+		$('#b66').animate({top:300, left: vw-100},500);
+		$('#b77').animate({top:300, left: vw-50},500);
+        $('#b88').animate({ top: 300, left: vw -0}, 500);
+        $('#b99').animate({ top: 300, left: vw + 50 }, 500);
 		$('.balloons').css('opacity','0.9');
         $('.balloons h2').fadeIn(3000);
         $('#pinkboard').attr('class','canvas-display')
